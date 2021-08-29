@@ -9,5 +9,3 @@
 * OSs : Ubuntu linux | windows 7/10. 🧰 💻
 * I'm opened to collaborations on projects, contributions to open source and job opportunities. 👨‍💼
 * Stay safe and keep on coding. 🗽
-# Connect with me
-twitter;
