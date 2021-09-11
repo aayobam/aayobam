@@ -16,6 +16,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=aayobam&show_icons=True&theme=radical&count_private=True" />
 </a>
 <a href="https://github.com/aayobam/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayobam&theme=radical&layout=compact)" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayobam&theme=radical&layout=compact&card_width=500)" />
 </a>
 
