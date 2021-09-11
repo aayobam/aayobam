@@ -9,5 +9,5 @@
 * OSs : Ubuntu linux | windows 7/10. 🧰 💻
 * I'm opened to collaborations on projects, contributions to open source and job opportunities. 👨‍💼
 * Stay safe and keep on coding. 🗽
-# [![Olowu's GitHub stats](https://github-readme-stats.vercel.app/api?username=aayobam&show_icons=true&theme=radical&count_private=True&langs_count=10&card_width=100)](https://github.com/aayobam/github-readme-stats)
+# [![Olowu's GitHub stats](https://github-readme-stats.vercel.app/api?username=aayobam&show_icons=true&theme=radical&count_private=True&langs_count=True&card_width=300)](https://github.com/aayobam/github-readme-stats)
 
