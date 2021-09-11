@@ -11,7 +11,7 @@
 * Stay safe and keep on coding. 🗽
 
 <a href="https://github.com/aayobam/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aayobam&show_icons=True&theme=radical&count_private=True" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aayobam&show_icons=True&theme=radical&count_private=True&card_width=550px" />
 </a>
 <a href="https://github.com/aayobam/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayobam&theme=radical&layout=compact&card_width=450px)" />
