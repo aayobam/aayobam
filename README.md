@@ -13,9 +13,9 @@
 # [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aayobam&theme=radical&layout=compact&card_width=600px)](https://github.com/aayobam/github-readme-stats)
 
 <a href="https://github.com/aayobam/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aayobam&show_icons=True&theme=radical&count_private=True&card_width=600px" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aayobam&show_icons=True&theme=radical&count_private=True" />
 </a>
 <a href="https://github.com/aayobam/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayobam&theme=radical&layout=compact&card_width=600px)" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayobam&theme=radical&layout=compact&card_width=500px)" />
 </a>
 
