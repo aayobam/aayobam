@@ -10,6 +10,6 @@
 * I'm opened to collaborations on projects, contributions to open source and job opportunities. 👨‍💼
 * Stay safe and keep on coding. 🗽
 # [![Olowu's GitHub stats](https://github-readme-stats.vercel.app/api?username=aayobam&show_icons=True&theme=radical&count_private=True)](https://github.com/aayobam/github-readme-stats)
-# [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aayobam&theme=radical&langs_count=10)](https://github.com/aayobam/github-readme-stats)
+# [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aayobam&theme=radical&card_width=100px)](https://github.com/aayobam/github-readme-stats)
 
 
