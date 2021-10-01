@@ -1,5 +1,5 @@
 ### Hi there 👋
-* I'm Olowu Abayomi, a passionate software developer with major in computer science. 📔 🖥️ 🖱️
+* I'm Abayomi, a passionate software developer with major in computer science. 📔 🖥️ 🖱️
 * I have experience in prgramming in general academically and currently developing using python programming language. 🐍 💻
 * I'm also an intern to the ongoing Reskill Americans @reskillamericans, Hng8i Internship @hnginternships and former intern at Zuri Team @zuriteam bootcamps.👨‍🎓 💻
 * I develope websites with python | django framework | django rest framework. 😎
