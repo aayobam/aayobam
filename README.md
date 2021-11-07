@@ -1,10 +1,7 @@
 ### Hi there 👋
 * I'm Abayomi, a passionate software developer with major in computer science. 📔 🖥️ 🖱️
-* I have experience in prgramming in general academically and currently developing using python programming language. 🐍 💻
-* I develope websites with python | django framework | django rest framework. 😎
-* My tech stacks are; python | django | django rest framework | html | css | bootstrap | little bit of vanilla javascript. 🧰 💻
-* Databases; sqlite | mysql | postgresql. 🧰 💻
-* OSs : Ubuntu linux | windows 7/10. 🧰 💻
+* I have experience in prgramming in general academically and in web development using python programming language. 🐍 💻
+* My tech stacks are; python | django | django rest framework | html | css | bootstrap | 🧰 💻
 * I'm opened to collaborations on projects, contributions to open source and job opportunities. 👨‍💼
 * Stay safe and keep on coding. 🗽
 # [![Olowu's GitHub stats](https://github-readme-stats.vercel.app/api?username=aayobam&show_icons=True&theme=radical&count_private=True&card_width=600px)](https://github.com/aayobam/github-readme-stats)
