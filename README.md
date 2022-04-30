@@ -4,4 +4,3 @@
 * My tech stacks are; python | django | django rest framework | html | css | bootstrap | 🧰 💻
 * I'm opened to collaborations on projects, contributions to open source and job opportunities. 👨‍💼
 * You can reach me via aayobam@gmail.com 📧 or text/WhatsApp me on +2347038708047 📱
-* Stay safe and keep on coding. 🗽
