@@ -5,7 +5,7 @@
 * I'm currently learning web api developments with graphql and python/django framework.
 * I'm opened to collaborations on projects, contributions to open source and job opportunities. 👨‍💼
 * You can reach me via aayobam@gmail.com 📧 or text/WhatsApp me on +2347038708047 📱
-# Programming Languages:
+# Technologies:
 <div align="center">
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="REST" title="REST" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git" /></code>
