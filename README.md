@@ -1,7 +1,7 @@
 ### Hi there 👋
 * I'm Abayomi, a passionate software developer with major in computer science. 📔 🖥️ 🖱️
 * I have experience in prgramming in general academically and in web development using python programming language. 🐍 💻
-* My tech stacks are; Python | Django | DjangoRestFramework | C# | Asp.Netcore | EntityFrameworkCore | MsSql| Postgresql | MySql |🧰 💻
+* My tech stacks are; Python | Django | DjangoRestFramework | C# | Asp.Netcore | EntityFrameworkCore | Docker | MsSql| Postgresql | MySql |🧰 💻
 * I'm opened to contributions to open source side gigs,and job opportunities. 👨‍💼
 * You can reach me via aayobam@gmail.com 📧 or text/WhatsApp me on +2347038708047 📱
 # Technologies:
