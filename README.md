@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/yungelda" target="blank"><img src="https://img.shields.io/twitter/follow/yungelda?logo=twitter&style=for-the-badge" alt="yungelda" /></a> </p>
 
-- 🔭 I’m currently working on [Swift Banking](swif-bank)
+- 🔭 I’m currently working on [Swift Bank](swift-bank)
 
-- 🌱 I’m currently learning **Asp.netcore, Entityframeworcore, Clean Architecture.**
+- 🌱 I’m currently learning **Asp.netcore, EntityFrameworkCore, Clean Architecture.**
 
-- 💬 Ask me about **python, django and djangorestframework**
+- 💬 Ask me about **Python, Django and DjangoRestFramework**
 
 - 📫 How to reach me **aayobam@gmail.com**
 
@@ -28,3 +28,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aayobam&show_icons=true&locale=en&layout=compact" alt="aayobam" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aayobam&show_icons=true&locale=en" alt="aayobam" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aayobam&" alt="aayobam" /></p>
