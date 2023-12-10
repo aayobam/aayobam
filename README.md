@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/yungelda" target="blank"><img src="https://img.shields.io/twitter/follow/yungelda?logo=twitter&style=for-the-badge" alt="yungelda" /></a> </p>
 
-- 🔭 I’m currently working on [swift Banking](https:github.com/aayobam/swif-bank)
+- 🔭 I’m currently working on [Swift Banking](swif-bank)
 
 - 🌱 I’m currently learning **Asp.netcore, Entityframeworcore, Clean Architecture.**
 
