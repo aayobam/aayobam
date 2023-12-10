@@ -17,9 +17,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://dev.to/aayobam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="aayobam" height="30" width="40" /></a>
 <a href="https://twitter.com/yungelda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yungelda" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aayobam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aayobam" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/11831138/abayomi-olowu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="11831138/abayomi-olowu" height="30" width="40" /></a>
+<a href="https://medium.com/@aayobam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aayobam" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
