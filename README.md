@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Swift Bank](https://github.com/aayobam/swift-bank)
 
-- 🌱 I’m currently work with **Python, Django, DjangoRestFramework, Asp.netcore, EntityFrameworkCore, Clean Architecture.**
+- 🌱 I currently work with **Python, Django, DjangoRestFramework, Asp.netcore, EntityFrameworkCore, Clean Architecture.**
 
 - 💬 Ask me about **Python, Django and DjangoRestFramework**
 
