@@ -7,9 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/yungelda" target="blank"><img src="https://img.shields.io/twitter/follow/yungelda?logo=twitter&style=for-the-badge" alt="yungelda" /></a> </p>
 
-- 🔭 I’m currently working on [Swift Bank](https://github.com/aayobam/swift-bank)
-
-- 🌱 I currently work with **Python, Django, DjangoRestFramework, Asp.netcore, EntityFrameworkCore, Clean Architecture.**
+- 🌱 I work with **Python, C#, Django, DjangoRestFramework, Asp.netcore, EntityFrameworkCore, **
 
 - 💬 Ask me about **Python, Django and DjangoRestFramework**
 
